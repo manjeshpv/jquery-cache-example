@@ -1,0 +1,27 @@
+{
+  "name": "jquery-cache-example",
+  "homepage": "https://github.com/manjeshpv/jquery-cache-example",
+  "authors": [
+    "Manjesh V<manjeshpv@gmail.com>"
+  ],
+  "description": "jQuery Ajax localStorage Cache Interceptor",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Cache",
+    "Ajax",
+    "jQuery",
+    "localStorage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-cache": "~1.0.0"
+  }
+}
